@@ -1,6 +1,19 @@
-.top-nav ul {
-  display: flex;
-  width: 100%;
-  justify-content: center;
-  gap: 1.6rem;
+.red {
+  background-color: transparent;
+  border: 2px solid red;
+  color: red;
+}
+.red:hover {
+  color: white;
+  background-color: red;
+}
+
+.blue {
+  background-color: transparent;
+  border: 2px solid blue;
+  color: blue;
+}
+.blue:hover {
+  color: white;
+  background-color: blue;
 }
